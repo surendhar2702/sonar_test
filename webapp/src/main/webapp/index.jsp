@@ -10,7 +10,7 @@
             margin: 0;
             padding: 0;
             background-color: #f2f2f2; /* Background color for the entire page */
-            background-image: url('image/2023-03-31.png'); /* Adjust the path based on your folder structure */
+            /*background-image: url('image/2023-03-31.png');  Adjust the path based on your folder structure */
             background-size: cover;
         }
 
