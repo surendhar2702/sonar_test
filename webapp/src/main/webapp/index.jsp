@@ -7,15 +7,13 @@
     <style>
         body {
             font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
             margin: 0;
             padding: 0;
-            background-color: #f2f2f2; /* Background color for the entire page */
-            /*background-image: url('image/2023-03-31.png');  Adjust the path based on your folder structure */
-            background-size: cover;
         }
 
         .container {
-            background-color: rgba(255, 255, 255, 0.9); /* Background color for the form container with some transparency */
+            background-color: #ffffff;
             margin: 5% auto;
             padding: 20px;
             width: 40%;
